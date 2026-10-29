@@ -1,0 +1,5 @@
+Gene symbol: MYH2
+NCBI Gene ID: 4620
+Official name: myosin heavy chain 2
+Chromosome: 17
+MYH2 encodes myosin heavy chain 2, a motor protein found in fast-twitch skeletal muscle fibers. It interacts with actin and uses ATP to generate force during muscle contraction.
