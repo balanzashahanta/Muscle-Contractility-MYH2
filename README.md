@@ -246,7 +246,7 @@ This plot marks residue 793, the position associated with p.Arg793Ter, on the 1,
 
 **Figure 3. MYH2 functional-domain map.**
 
-![Figure 3: MYH2 functional-domain map](figures/03_functional_domain_map.png)
+![Figure 3: MYH2 functional-domain map](figures/03_protein_structure.png)
 
 This schematic shows the annotated functional regions of the MYH2 reference protein and the location of the assigned variant. Domain boundaries must be checked against the cited database annotation before being treated as confirmed.
 
